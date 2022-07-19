@@ -1,2 +1,11 @@
 div {background-color: purple; padding: 15px;}
 ul {background-color: pink;}
+.adam {
+    color: yellow;
+}
+.tao {
+    color: red; 
+}
+.adam, .tao {
+    background-color: cyan;
+}
