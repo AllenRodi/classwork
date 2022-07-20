@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@1,100;1,400;1,500;1,700;1,800;1,900&display=swap');
+
+body {
+    font-family:  'Alegreya Sans', sans-serif;
+}
+
+h1 {
+    font-weight: 500;
+    font-style: normal;
+    text-decoration: underline;
+    text-transform: uppercase;
+    margin-left: 15%;
+}
+
+h2{
+    font-weight: 500;
+    font-style: normal;
+    margin-left: 20%;
+}
+p {
+    font-style: normal;
+    line-height: 30px;
+    margin-bottom: 1px;
+    margin-left: 15%;
+    text-indent: 20px;
+
+    
+    
+
+
+}
