@@ -3,6 +3,8 @@
 
 body {
     font-family:  'Alegreya Sans', sans-serif;
+    background-color: pink;
+    
 }
 
 h1 {
@@ -25,8 +27,12 @@ p {
     margin-left: 15%;
     text-indent: 20px;
 
-    
-    
+}
 
+span{
+    margin-left: 2%;
+}
 
+#Jabberwock {
+    color: red;
 }
