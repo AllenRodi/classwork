@@ -10,7 +10,7 @@ div {
 
 }
 
-.big-box, .litlle-box {
+.big-box, .little-box {
     width: 100px;
     height: 100px;
 }
@@ -19,7 +19,17 @@ div {
     background-color: aqua;
 }
 
-.litlle-box {
+.little-box {
     background-color: gold;
+}
+
+.big-box2 {
+    background-color: rgb(23, 23, 217);
+
+}
+
+.little-box2 {
+    background-color: rgb(12, 155, 108);
+
 }
 
