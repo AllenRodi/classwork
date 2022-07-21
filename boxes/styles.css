@@ -9,3 +9,17 @@ div {
     border: 5px solid black ;
 
 }
+
+.big-box, .litlle-box {
+    width: 100px;
+    height: 100px;
+}
+
+.big-box {
+    background-color: aqua;
+}
+
+.litlle-box {
+    background-color: gold;
+}
+
