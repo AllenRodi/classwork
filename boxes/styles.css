@@ -33,3 +33,13 @@ div {
 
 }
 
+.big-box3 {
+    background-color: rgb(185, 170, 43);
+    padding: 10%;
+
+}
+.little-box3 {
+    background-color: rgb(123, 232, 87);
+    margin: .5%;
+}
+
